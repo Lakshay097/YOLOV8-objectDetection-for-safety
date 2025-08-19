@@ -1,4 +1,4 @@
-#YOLOv8 Object Detection for Safety
+# YOLOv8 Object Detection for Safety
 
 This project applies **YOLOv8** to detect safety equipment (like helmets, jackets, etc.) in images/videos.  
 It helps ensure workplace safety by identifying whether workers are following safety protocols.
